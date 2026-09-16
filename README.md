@@ -10,5 +10,6 @@ September 9th: Arduino
 
 September 14th: Microcontroller and circuits
 
-- Program5.py: We used ChatGPT to program an alarm system with a red LED and a green LED. Collaborated with teammates. 
-- Program6.py: We used ChatGPT to program a motor to spin 180 degrees starting from a 0-degree position using a contact switch and resetting it back to 0-degrees when the contact switch is pressed again. Collaborated with teammates
+- Program5.py: We used ChatGPT to program an alarm system with a red LED and a green LED. (Collaborated with teammates) 
+- Program6.py: We used ChatGPT to program a motor to spin 180 degrees starting from a 0-degree position using a contact switch and resetting it back to 0-degrees when the contact switch is pressed again. (Collaborated with teammates)
+- Program7.py with CSV files: We used ChatGPT to record 10 samples of voltage under 5 different scenarios: completely dry, blowing, half wiping the board, fully wiping the board, and putting the entire wipe on the board. (Collaborated with teammates)
