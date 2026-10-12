@@ -1,3 +1,6 @@
+# FYRE-Assignment
+Repo for my assignments from the "Sensing the World" module of ENGR095 at Lehigh University in Fall 2026. 
+# Project activities 
 - Automatic Umbrella: This was the first code we wrote for the project, but because the sensor continued to lose sensitivity, we had to alter the final code. 
 - Umbrella 2 (Final): This is the final code we used, where we adjusted it for the weakening humidity sensor. What we mainly changed in this code was the threshold. Since the humidity sensor was weakening, we had to lower the ADC threshold so that it worked properly.  
 - Project Prototype: This is just a picture of our final prototype for the project.
